@@ -17,10 +17,3 @@ Please use https://github.com/Snirpo/aawireless-issues/issues to post your issue
 5) Wait a bit longer, you should see the phone connecting to a wifi called AAWireless (keep the screen on)
 6) After this you should see a black screen flashing and AA asking you to set up assistant again, then it should show up on the car screen.
 
-## Wireless bootstrap with app (or tasker)
-### Not using this method right now
-1) Go to the car, plug in the pi to the car and start the car 
-2) Wait 20 seconds, then connect to the wifi network named AAWireless-xxxx with password 0123456789
-3) Start the wifi bootstrap app (https://drive.google.com/file/d/1RUjmGc8HX2KN7fyNXIB9yLlOlKqV4gZq/view?usp=sharing) and press the start button (or use the tasker bootstrap task).
-4) After this you should see a black screen flashing and AA asking you to set up assistant again, then it should show up on the car screen.
-
